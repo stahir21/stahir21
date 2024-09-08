@@ -2,7 +2,7 @@
 - I’m interested in applying data science and machine learning to solve business problems 
   in technology, finance, cyber security and biological research. 
 - I have a Master's in Biostatistics from the University of Florida and I'm an associate of ISC2.
-- To further develop my skills, I have also completed the IBM Data Science Professional Certificate, IBM Cybersecurity Analyst Professional Certificate and the Google Data Analytics Certificate. 
+- To further develop my skills, I have also completed the Stanford Machine Learning Specialization, IBM Data Science Professional Certificate, IBM Cybersecurity Analyst Professional Certificate and the Google Data Analytics Certificate. 
 
 
 <!---
